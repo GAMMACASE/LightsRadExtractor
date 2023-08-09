@@ -1,5 +1,5 @@
 # LightsRadExtractor
-Simple console application to extract lights.rad information that was used to compile the source 1 engine map. This app should work for all bsp's of a version 20 and 21, but was tested mostly for games such as CS:GO and CS:S.
+Simple console application to extract lights.rad information that was used to compile the source 1 engine map. This app should work for all bsp's of a version 20 and 21, but was tested mostly for games such as CS:GO and CS:S. Formerly it was known as a ``lrfind`` or ``lightradfinder``.
 
 ## Usage
 If you plan on building or using the app directly from python:
